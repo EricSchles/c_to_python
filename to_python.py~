@@ -1,0 +1,9 @@
+import struct
+with open("output.bin","rb") as f:
+    chunk = f.read(16)
+    while chunk != "":
+        print len(chunk)
+        #the string is a set of format characters
+        #more details at: https://docs.python.org/2/library/struct.html
+        print struct.unpack('dicccc', chunk)
+        chunk = f.read(16)
