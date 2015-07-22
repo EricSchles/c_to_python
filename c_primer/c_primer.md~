@@ -1,0 +1,45 @@
+#C Primer
+
+Welcome to the C programming language.  In this tutorial we'll be going through the primitives of C.  
+
+What we'll cover:
+
+* Primitives
+  * Printing to the Screen
+  * Basic Math
+  * Variables - storing state
+  * for/while loops
+  * functions
+* Data Structures
+  * Arrays
+  * Structs
+  * Pointers
+    * Basic Pointers
+    * Array Pointers
+    * Function Pointers
+  * Linked Lists
+    * Singly Linked Lists
+    * Doubly Linked Lists
+    * Skip Lists
+    * Stacks/Queues 
+  * Trees
+    * Binary Search Trees
+    * Red/Black Trees, AVL Trees
+  * Heaps
+    * Priority Queues
+  * Graphs
+  * HashMaps
+* Algorithms
+  * Sorting
+  * List Traversal
+  * Graph Traversal
+  * Shortest Path
+  * Numerical Methods and computations
+
+##Primitives
+
+The C language has great primitives.  In fact after only understanding the basic data structures you are ready to make use of all of the power of the C language - blazing speed.
+
+
+
+  
